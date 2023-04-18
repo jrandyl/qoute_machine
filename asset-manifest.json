@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qoute_machine/static/css/main.993e549f.css",
+    "main.js": "/qoute_machine/static/js/main.80e44121.js",
+    "static/js/787.5362e16f.chunk.js": "/qoute_machine/static/js/787.5362e16f.chunk.js",
+    "index.html": "/qoute_machine/index.html",
+    "main.993e549f.css.map": "/qoute_machine/static/css/main.993e549f.css.map",
+    "main.80e44121.js.map": "/qoute_machine/static/js/main.80e44121.js.map",
+    "787.5362e16f.chunk.js.map": "/qoute_machine/static/js/787.5362e16f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993e549f.css",
+    "static/js/main.80e44121.js"
+  ]
+}
